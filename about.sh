@@ -2,7 +2,7 @@
 
 clear
 echo -e "================================================="
-echo -e "#         Premium Auto Script By CTechDidik         #"
+echo -e "#         Premium Auto Script By SAMVPN         #"
 echo -e "#-----------------------------------------------#"
 echo '         _____ ___    __  ____    ______  _   __  '
 echo '        / ___//   |  /  |/  / |  / / __ \/ | / /  '
