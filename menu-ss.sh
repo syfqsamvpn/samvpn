@@ -1,12 +1,12 @@
 #!/bin/bash
 clear
 echo -e "\e[93m                    Autoscript By SAMVPN                "
-echo -e "\e[92m              _____ ___    __  ____    ______  _   __  "
-echo -e "\e[92m             / ___//   |  /  |/  / |  / / __ \/ | / /  "
-echo -e "\e[92m             \__ \/ /| | / /|_/ /| | / / /_/ /  |/ /   "
-echo -e "\e[92m            ___/ / ___ |/ /  / / | |/ / ____/ /|  /  "
-echo -e "\e[92m           /____/_/  |_/_/  /_/  |___/_/   /_/ |_/   "
-echo -e "\e[92m         	   UNLIMITED SEGALANYA! "
+echo -e "\e[92m              _____ ___    __  ____    ______  _   __   "
+echo -e "\e[92m             / ___//   |  /  |/  / |  / / __ \/ | / /   "
+echo -e "\e[92m             \__ \/ /| | / /|_/ /| | / / /_/ /  |/ /    "
+echo -e "\e[92m            ___/ / ___ |/ /  / / | |/ / ____/ /|  /     "
+echo -e "\e[92m           /____/_/  |_/_/  /_/  |___/_/   /_/ |_/      "
+echo -e "\e[92m         	   UNLIMITED SEGALANYA!                "
 echo -e "\e[0m                                                       "
 echo -e "\e[94m    .----------------------------------------------------.    "
 echo -e "\e[94m    |               Shadowsocks OBFS MENU                |    "
