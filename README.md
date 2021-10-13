@@ -6,4 +6,6 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ```
 
 ### SILA CONTACT SAMVPN UNTUK REGISTER IP
-```https://t.me/sam_sfx```
+```
+https://t.me/sam_sfx
+```
