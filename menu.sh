@@ -15,12 +15,12 @@ echo -e "* SERVER        : $ISP"
 echo -e "* City          : $CITY"
 echo -e "* IP VPS        : $IPVPS"
 echo -e ""
-echo '                          _____ ___    __  ____    ______  _   __   '
-echo '                         / ___//   |  /  |/  / |  / / __ \/ | / /   '
-echo '                         \__ \/ /| | / /|_/ /| | / / /_/ /  |/ /    '
-echo '                        ___/ / ___ |/ /  / / | |/ / ____/ /|  /     '
-echo '                       /____/_/  |_/_/  /_/  |___/_/   /_/ |_/      '
-echo '         	                      UNLIMITED SEGALANYA!                '
+echo -e "                    _____ ___    __  ____    ______  _   __     "
+echo -e "                   / ___//   |  /  |/  / |  / / __ \/ | / /     "
+echo -e "                   \__ \/ /| | / /|_/ /| | / / /_/ /  |/ /      "
+echo -e "                  ___/ / ___ |/ /  / / | |/ / ____/ /|  /       "
+echo -e "                 /____/_/  |_/_/  /_/  |___/_/   /_/ |_/        "
+echo -e "\e[38;5;82m                UNLIMTED \e[38;5;198mSEGALANYA       "
 echo -e ""
 echo -e "\e[1;33m=============================-Menu-=============================\e[0m'"
 echo -e "\e[1;33m*               Senarai Menu yang Disediakan\e[0m"
