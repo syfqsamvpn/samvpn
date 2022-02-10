@@ -1,5 +1,24 @@
 #!/bin/bash
 
+MYIP=$(wget -qO- ipinfo.io/ip);
+IZIN=$( curl -sS https://raw.githubusercontent.com/syfqsamvpn/access/main/ip | awk '{print $4}' | grep $MYIP )
+if [ $MYIP = $IZIN ]; then
+clear
+echo -e "${green}Tahniah! Anda Dibenarkan menggunakan SAMVPN...${NC}"
+else
+clear
+echo ""
+rm -f setup.sh
+echo '                            ...                           '
+echo '        Anda Tidak Dibenarkan Menggunakan Script ini!     '
+echo '                            ...                           '
+echo '        SILA REGISTER IP ANDA DI BOT @ctechdidik_bot!     '
+echo '                        t.me/sam_sfx                      '
+sleep 20
+exit 0
+fi
+
+
 ### BEGIN INIT INFO
 # Provides:          ShadowsocksR
 # Required-Start:    $network $local_fs $remote_fs
