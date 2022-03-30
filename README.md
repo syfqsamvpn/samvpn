@@ -9,3 +9,8 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ```
 https://t.me/sam_sfx
 ```
+
+### UPDATE WIREGUARD KERNEL
+```
+bash <(curl -sSL https://raw.githubusercontent.com/syfqsamvpn/logovps/main/up-kernel.sh)
+```
